@@ -1,0 +1,56 @@
+.offcanvas-body{
+    background-color: black;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.col-md-4{
+    margin-top: 80px;
+    padding: 30px;
+}
+.container {
+    padding: 20px;
+}
+
+.row {
+    padding: 5px;
+    
+}
+
+.col {
+    width: 100%;
+    padding: 10px;
+    height: 90vh;
+}
+
+.col button {
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+}
+
+
+.col-4{
+    /* border: 1px solid black; */
+    height: 50vh;
+}
+
+.col-12{
+    height: 60%;
+}
+
+.col-6{
+    height: 45vh;
+}
+
+.col-2{
+    /* border: 1px solid black; */
+    height: 40vh;
+    width: 30%;
+}
